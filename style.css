@@ -104,7 +104,7 @@ body {
 }
 
 .keep-positive {
-    background-image: url('/images/gradient2.png');
+    background-image: url('./images/gradient3.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
@@ -112,7 +112,7 @@ body {
 }
 
 .positive-section {
-    background-image: url('/images/watch.png');
+    background-image: url('./images/watch.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 130px;
@@ -222,7 +222,7 @@ body {
     margin-top: 15px;
 }
 .keep-positivee{
-    background-image: url('/images/gradient1.png');
+    background-image: url('./images/gradient1.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
